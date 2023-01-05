@@ -1,2 +1,6 @@
-this is prashant choudhary
-
+red
+orange
+yellow
+green
+blue
+purple
